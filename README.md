@@ -1,4 +1,4 @@
-# Licenciatura em Engenharia Informática - Pedro Pinto
+# Licenciatura em Engenharia Informática
 
 
 ### Unidades Curriculares
