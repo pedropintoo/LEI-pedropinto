@@ -91,7 +91,7 @@
         <td><a href="https://github.com/pedropintoo/MAS-project" target="_blank" rel="noopener noreferrer">MAS-project</a></td>
         <td>-</td>
         <td><a href="https://github.com/pedropintoo/AED-project-1" target="_blank" rel="noopener noreferrer">AED-project-1</a></td>
-        <td><a href="https://github.com/pedropintoo/BD-project" target="_blank" rel="noopener noreferrer">BD-project</a></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
@@ -99,7 +99,7 @@
         <td><a href="https://github.com/pedropintoo/LSD-project" target="_blank" rel="noopener noreferrer">LSD-project</a>*</td>
         <td>-</td>
         <td><a href="https://github.com/pedropintoo/AED-project-2" target="_blank" rel="noopener noreferrer">AED-project-2</a></td>
-        <td><a href="https://github.com/pedropintoo/C-project" target="_blank" rel="noopener noreferrer">C-project</a></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
@@ -107,7 +107,7 @@
         <td><a href="https://github.com/pedropintoo/ITW-project" target="_blank" rel="noopener noreferrer">ITW-project</a></td>
         <td>-</td>
         <td><a href="https://github.com/pedropintoo/MPEI-project" target="_blank" rel="noopener noreferrer">MPEI-project</a></td>
-        <td><a href="https://github.com/pedropintoo/CD-project" target="_blank" rel="noopener noreferrer">CD-project</a></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
@@ -115,7 +115,7 @@
         <td>-</td>
         <td>-</td>
         <td><a href="https://github.com/pedropintoo/SO-project-1" target="_blank" rel="noopener noreferrer">SO-project-1</a></td>
-        <td><a href="https://github.com/pedropintoo/IHC-project" target="_blank" rel="noopener noreferrer">IHC-project</a></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
@@ -123,7 +123,7 @@
         <td>-</td>
         <td>-</td>
         <td><a href="https://github.com/pedropintoo/SO-project-2" target="_blank" rel="noopener noreferrer">SO-project-2</a></td>
-        <td>-</td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
