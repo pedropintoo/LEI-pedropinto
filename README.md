@@ -22,7 +22,7 @@
     <td><a href="https://github.com/pedropintoo/ALGA" target="_blank" rel="noopener noreferrer">ALGA</a></td>
     <td><a href="https://github.com/pedropintoo/CII" target="_blank" rel="noopener noreferrer">CII</a></td>
     <td><a href="https://github.com/pedropintoo/AED" target="_blank" rel="noopener noreferrer">AED</a></td>
-    <td><a href="https://github.com/pedropintoo/BD" target="_blank" rel="noopener noreferrer">BD</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -30,7 +30,7 @@
     <td><a href="https://github.com/pedropintoo/CI" target="_blank" rel="noopener noreferrer">CI</a></td>
     <td><a href="https://github.com/pedropintoo/IAC" target="_blank" rel="noopener noreferrer">IAC</a></td>
     <td><a href="https://github.com/pedropintoo/MPEI" target="_blank" rel="noopener noreferrer">MPEI</a></td>
-    <td><a href="https://github.com/pedropintoo/C" target="_blank" rel="noopener noreferrer">C</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -38,7 +38,7 @@
     <td><a href="https://github.com/pedropintoo/FP" target="_blank" rel="noopener noreferrer">FP</a></td>
     <td><a href="https://github.com/pedropintoo/LSD" target="_blank" rel="noopener noreferrer">LSD</a>*</td>
     <td><a href="https://github.com/pedropintoo/RS" target="_blank" rel="noopener noreferrer">RS</a></td>
-    <td><a href="https://github.com/pedropintoo/CD" target="_blank" rel="noopener noreferrer">CD</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -46,7 +46,7 @@
     <td><a href="https://github.com/pedropintoo/ISD" target="_blank" rel="noopener noreferrer">ISD</a>*</td>
     <td><a href="https://github.com/pedropintoo/MD" target="_blank" rel="noopener noreferrer">MD</a></td>
     <td><a href="https://github.com/pedropintoo/SM" target="_blank" rel="noopener noreferrer">SM</a></td>
-    <td><a href="https://github.com/pedropintoo/IHC" target="_blank" rel="noopener noreferrer">IHC</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -54,7 +54,7 @@
     <td><a href="https://github.com/pedropintoo/ITW" target="_blank" rel="noopener noreferrer">ITW</a></td>
     <td><a href="https://github.com/pedropintoo/MSF" target="_blank" rel="noopener noreferrer">MSF</a></td>
     <td><a href="https://github.com/pedropintoo/SO" target="_blank" rel="noopener noreferrer">SO</a></td>
-    <td><a href="https://github.com/pedropintoo/PDS" target="_blank" rel="noopener noreferrer">PDS</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
