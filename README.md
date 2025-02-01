@@ -62,8 +62,8 @@
     <td><a href="https://github.com/pedropintoo/MAS" target="_blank" rel="noopener noreferrer">MAS</a></td>
     <td><a href="https://github.com/pedropintoo/POO" target="_blank" rel="noopener noreferrer">POO</a></td>
     <td>-</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
     <td></td>
   </tr>
 </tbody></table>
@@ -123,7 +123,7 @@
         <td>-</td>
         <td>-</td>
         <td><a href="https://github.com/pedropintoo/SO-project-2" target="_blank" rel="noopener noreferrer">SO-project-2</a></td>
-        <td></td>
+        <td>-</td>
         <td><a href="https://github.com/pedropintoo/SIO-project" target="_blank" rel="noopener noreferrer">SIO-project</a></td>
         <td></td>
     </tr>
