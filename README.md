@@ -1,5 +1,6 @@
 # Licenciatura em Engenharia Informática
 
+> **Média Final: 19/20**
 
 ### Unidades Curriculares
 
